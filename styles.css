@@ -16,3 +16,9 @@ button{
     width: 8%;
     justify-content: center;
 }
+button:hover {
+    background-color: orange;
+}
+button {
+    transition: background-color 0.5s linear 0s;
+}
