@@ -7,3 +7,20 @@ body{
     justify-content: center;
     align-items: center;
 }
+button{
+    margin: 20px;
+    background-color: aqua;
+    border: none;
+    display: flex;
+    height: 50px;
+    width: 8%;
+    justify-content: center;
+}
+button:hover {
+    background-color: orange;
+    height: 100px;
+}
+button {
+    transition: background-color 0.5s linear 0s;
+    transition: height 0.5s linear 0s;
+}
