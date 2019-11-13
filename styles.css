@@ -1,8 +1,9 @@
 #slider{
-    width: 100px;
+    width: 400px;
 }
 
 body{
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
 }
