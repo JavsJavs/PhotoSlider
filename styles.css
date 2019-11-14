@@ -9,13 +9,18 @@ body{
     justify-content: center;
     align-items: center;
 }
-img{
-    box-shadow: 2px 3px 4px #BBBBBB;
-    border-radius: 5px;
+
+#prevButton{
+    color: lightgray;
 }
+
+#nextButton{
+    color: black;
+}
+
 button{
-    margin: 20px;
     background-color: aqua;
+    margin: 20px;
     border: none;
     display: flex;
     height: 50px;
@@ -25,6 +30,7 @@ button{
     border-radius: 5px;
     outline:none;
 }
+
 button:hover {
     background-color: orange;
     height: 100px;
