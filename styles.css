@@ -1,5 +1,7 @@
 #slider{
-    width: 400px;
+    width: 500px;
+    height: 400px;
+    object-fit: contain;
 }
 
 body{
