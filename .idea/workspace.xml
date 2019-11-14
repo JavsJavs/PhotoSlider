@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f1a0353-49b9-4556-b558-be519943ab90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photos/1ThanosHomer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Photos/photo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photos/2ShrekWzowski.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photos/3KeanuSmall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photos/4Mesi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photos/5SullyMike.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="1f1a0353-49b9-4556-b558-be519943ab90" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
       <updated>1573657259732</updated>
       <workItem from="1573657261859" duration="17000" />
       <workItem from="1573657279541" duration="3251000" />
-      <workItem from="1573750164283" duration="3474000" />
+      <workItem from="1573750164283" duration="3740000" />
     </task>
     <servers />
   </component>
