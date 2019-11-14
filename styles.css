@@ -9,6 +9,10 @@ body{
     justify-content: center;
     align-items: center;
 }
+img{
+    box-shadow: 2px 3px 4px #BBBBBB;
+    border-radius: 5px;
+}
 button{
     margin: 20px;
     background-color: aqua;
@@ -17,6 +21,9 @@ button{
     height: 50px;
     width: 8%;
     justify-content: center;
+    box-shadow: 2px 3px 4px #BBBBBB;
+    border-radius: 5px;
+    outline:none;
 }
 button:hover {
     background-color: orange;
