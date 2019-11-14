@@ -22,8 +22,8 @@ function nextPhoto() {
     var currentPhoto = document.getElementById("slider").src;
     console.log(currentPhoto);
     switch (currentPhoto) {
-        case 'http://localhost:63342/SliderPhotos/Photos/1ThanosHomer.jpg':
-            document.getElementById('slider').src = 'http://localhost:63342/SliderPhotos/Photos/2ShrekWzowski.jpg';
+        case './Photos/1ThanosHomer.jpg':
+            document.getElementById('slider').src = './Photos/2ShrekWzowski.jpg';
             break;
         case 'http://localhost:63342/SliderPhotos/Photos/2ShrekWzowski.jpg':
             document.getElementById('slider').src = 'http://localhost:63342/SliderPhotos/Photos/3KeanuSmall.jpg';
